@@ -4,3 +4,6 @@
 # Vim
 *.swo
 *.swp
+
+vendor/golang.org/**
+\.idea/
